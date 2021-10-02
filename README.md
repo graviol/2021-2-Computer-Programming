@@ -1,1 +1,5 @@
-# 2021-2-Computer-Programming
+# 2021-2 컴퓨터프로그래밍(Computer Programming)
+
+### 올릴 내용
+- 컴프 Lab 관련 과제는 올리지 않고, 정규수업의 과제만 올릴 예정.
+- 나머지는 미정.
